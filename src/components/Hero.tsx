@@ -19,9 +19,12 @@ function Hero() {
         </h2>
         <br />
         <div className='flex items-center gap-6'>
-          <button className='bg-amber-800 border border-black rounded-2xl p-3 flex gap-3 shadow-amber-600 shadow-2xl hover:bg-amber-700'>
+          <a className='bg-amber-800 border border-black rounded-2xl p-3 flex gap-3 shadow-amber-600 shadow-2xl hover:bg-amber-700'
+          href='/resume_2_0.pdf' 
+          download="Rishabh_pal_resume.pdf"
+          >
             Download Resume <Download />
-          </button>
+          </a>
           <a href="https://github.com/Rishabhpal07"
           target="_blank"
           rel="noopener noreferrer"
