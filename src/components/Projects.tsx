@@ -3,16 +3,16 @@ import Card from "./Card";
 
 const cardData = [
   {
+    description: 'An AI-powered website generator that creates modern, responsive website UIs instantly. It lets you make seamless inline edits without re-prompting, access the full source code, and use ImageKit integration for both image uploads and AI-generated visuals — all in one intuitive platform. ',
+    imageUrl: 'ai_website.png',
+    link1:'https://github.com/Rishabhpal07/AI_Website_Generator',
+    link2:'https://ai-website-generator-tau.vercel.app/'
+  },
+  {
     description: 'BaseBuild is a platform designed to help developers find teammates and coding partners for hackathons and collaborative projects. It connects programmers, designers, and tech enthusiasts, enabling them to team up based on their skills, interests, and project goals.',
     imageUrl: 'basebuild.png',
     link1:'https://github.com/Rishabhpal07/Basebuild_app',
     link2:'https://basebuild-6vnd.onrender.com/chat'
-  },
-  {
-    description: 'The PM Internship Engine is an AI-powered platform that automates the process of matching students to internships by analyzing their skills and company requirements, ensuring optimal and fair placements.',
-    imageUrl: 'pmInternship.png',
-    link1:'https://github.com/Rishabhpal07/aimatch-allocator',
-    link2:'https://aimatch-allocator.vercel.app'
   },
   {
     description: 'A Voting System built with Node.js where users can vote for candidates, and an admin manages the process by registering candidates and overseeing voting, ensuring a secure and efficient election process.',
