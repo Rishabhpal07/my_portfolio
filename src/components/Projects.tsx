@@ -9,15 +9,16 @@ const cardData = [
     link2:'https://ai-website-generator-tau.vercel.app/'
   },
   {
+    description: 'A smart stock tracker that keeps you ahead of the market with real-time insights, personalized portfolio tracking, and AI-powered daily finance news summaries delivered straight to your inbox—so you never miss what matters. ',
+    imageUrl: 'signalist.png',
+    link1:'https://github.com/Rishabhpal07/tradingView',
+    link2:'https://trading-view-n1o9.vercel.app'
+  },
+  {
     description: 'BaseBuild is a platform designed to help developers find teammates and coding partners for hackathons and collaborative projects. It connects programmers, designers, and tech enthusiasts, enabling them to team up based on their skills, interests, and project goals.',
     imageUrl: 'basebuild.png',
     link1:'https://github.com/Rishabhpal07/Basebuild_app',
     link2:'https://basebuild-6vnd.onrender.com/chat'
-  },
-  {
-    description: 'A Voting System built with Node.js where users can vote for candidates, and an admin manages the process by registering candidates and overseeing voting, ensuring a secure and efficient election process.',
-    imageUrl: 'voting.png',
-    link1:'https://github.com/Rishabhpal07/voting_app_in_nodejs'
   },
 ];
 
