@@ -6,7 +6,7 @@ const cardData = [
     description: 'An AI-powered website generator that creates modern, responsive website UIs instantly. It lets you make seamless inline edits without re-prompting, access the full source code, and use ImageKit integration for both image uploads and AI-generated visuals — all in one intuitive platform. ',
     imageUrl: 'ai_website.png',
     link1:'https://github.com/Rishabhpal07/AI_Website_Generator',
-    link2:'https://ai-website-generator-tau.vercel.app/'
+    link2:'https://ai-website-generator-nnqydk4v9-rishabhpal07s-projects.vercel.app'
   },
   {
     description: 'A smart stock tracker that keeps you ahead of the market with real-time insights, personalized portfolio tracking, and AI-powered daily finance news summaries delivered straight to your inbox—so you never miss what matters. ',
